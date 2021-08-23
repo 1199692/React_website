@@ -1,0 +1,19 @@
+/* File: font.css */
+@font-face {
+    font-family: 'BasisGrotesquePro-Light';
+    src: local('BasisGrotesquePro-Light'),
+         url('./fonts/BasisGrotesquePro-Light.ttf') format('ttf'),
+
+}
+@font-face {
+    font-family: 'BasisGrotesquePro-Regular';
+    src: local('BasisGrotesquePro-Regular'),
+         url('./fonts/BasisGrotesquePro-Regular.ttf') format('ttf'),
+
+}
+@font-face {
+    font-family: 'BasisGrotesquePro-Bold';
+    src: local('BasisGrotesquePro-Bold'),
+         url('./fonts/BasisGrotesquePro-Bold.ttf') format('ttf'),
+
+}

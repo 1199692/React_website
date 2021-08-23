@@ -27,11 +27,9 @@ const PDF = ( ) => {
                 
                 <h1>Tøyen Unlimited </h1> 
                 <Box textAlign="justify" m={3} >
-
                      Name : {location.state.fname} {location.state.lname}
                      <p>Email :  {location.state.email}</p> 
                      <p>Phone : {location.state.phone}</p>
-                      
                 </Box>     
                { /* <img src = {props.image} alt="Tøyen" /> */}
                      

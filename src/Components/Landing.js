@@ -222,6 +222,18 @@ class Map extends Component {
                             >
                                 Register
                             </Button>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
                         </form>
                     </div>
                     </Container>

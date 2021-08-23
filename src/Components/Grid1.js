@@ -15,7 +15,7 @@ const styles = makeStyles({
 })
 
 
-function Grid(props) {
+function Grid1(props) {
     const {icon, title, btnTitle} = props;
     const classes = styles(); 
     return (
@@ -29,4 +29,4 @@ function Grid(props) {
     )
 }
 
-export default Grid
+export default Grid1

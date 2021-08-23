@@ -9,6 +9,7 @@ import { Link } from "react-router-dom";
 //const preventDefault = (event) => event.preventDefault();
 function Footer() {
     return (
+      <div className="footer">
         <BottomNavigation >
           <BottomNavigationAction color="red" label="Facebook" value="recents" icon={<FacebookIcon  style={{fill: "#3b5998"}} />} >
              <Link to=""></Link> 
@@ -17,6 +18,7 @@ function Footer() {
           <BottomNavigationAction label="Instagram" value="nearby" icon={<InstagramIcon  style={{fill: " #C13584"}}/>} />
           <BottomNavigationAction label="YouTube" value="folder" icon={<YouTubeIcon  style={{fill: "#c4302b"}}/>} />
         </BottomNavigation>
+      </div>
         
     )
 }

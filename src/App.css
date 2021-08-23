@@ -6,12 +6,10 @@
     You can access variables using the 'var()' function:
   */
   background: linear-gradient(100deg, var(--color-1), var(--color-2));
-
   /*background-color: rgb(234, 240, 243);*/
   background-repeat: no-repeat;
   /*background-image: url("./Images/Toyen3.png"); */
-  background-size: cover;
-  min-height: calc(100vh-50);
+  min-height: calc(100vh - 50);
 }
 
 @media (prefers-reduced-motion: no-preference) {

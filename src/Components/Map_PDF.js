@@ -213,14 +213,6 @@ class Map extends Component {
                                         phone:this.state.phone
                                     } 
                                 }}
-                            to={{ pathname: '/NavBar', 
-                                state: {
-                                    fname:this.state.fname,
-                                    lname:this.state.lname,
-                                    email:this.state.email,
-                                    phone:this.state.phone
-                                } 
-                            }}
                         >
                             Submit
                         </Button>

@@ -10,7 +10,11 @@ ReactDOM.render(
   <React.StrictMode>
     
       <App />
+<<<<<<< HEAD
+   
+=======
     
+>>>>>>> d2e87632fa2a5891f90966b641207a529cfa3b3f
   </React.StrictMode>,
   document.getElementById('root')
 );
